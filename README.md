@@ -11,7 +11,7 @@ Currently enrolled in an ISC2 CC certification course.
 
 | Project | Description | Tech |
 |---|---|---|
-| [FoodyNew]((https://github.com/VGrozev1/FoodyNew)) | Food delivery web app built during my SAP internship |Java|
+| [FoodyNew](https://github.com/VGrozev1/FoodyNew) | Food delivery web app built during my SAP internship |Java|
 | [GFinance](https://github.com/VGrozev1/Gfinance) | Website for GFinance, a Bulgarian credit consulting firm — presents its services and lets clients send loan inquiries. 🔗Live: gfinance.bg |Python|
 
 

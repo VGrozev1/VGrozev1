@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Viktor 👋
 
-<!--
-**VGrozev1/VGrozev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at the Technical University of Sofia, interested in secure software development.
+Currently enrolled in an ISC2 CC certification course.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viktor%20Grozev-0A66C2?logo=linkedin)](https://www.linkedin.com/in/viktor-grozev-420511308/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Web Development
+
+| Project | Description | Tech |
+|---|---|---|
+| [FoodyNew]((https://github.com/VGrozev1/FoodyNew)) | Food delivery web app built during my SAP internship |Java|
+| [GFinance](https://github.com/VGrozev1/Gfinance) | Website for GFinance, a Bulgarian credit consulting firm — presents its services and lets clients send loan inquiries. 🔗Live: gfinance.bg |Python|
+
+
+## 🎓 University
+
+| Project | Description | Tech |
+|---|---|---|
+Here I will upload tasks I have done as university work.
+---
+
+📫 vikigrozev@gmail.com
